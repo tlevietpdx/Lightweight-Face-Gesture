@@ -1,0 +1,2 @@
+from model.static_classifier.static_classifier import StaticClassifier
+from model.gesture_classifier.gesture_classifier import FaceGestureClassifier
